@@ -1,5 +1,4 @@
-alo alo ..? Radin is speaking..
-
+heyo,currently studying flutter and stuff. 
 <!---
 RadG1t/RadG1t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
