@@ -1,8 +1,7 @@
-heyo, dear reader who I don't know. 
 
 I was playin' with flutter docs, suddenly fell into linux ocean. 
 
-trying to learn how to swim( still playin with futter ).
+trying to learn how to swim while playing.
 
 what else should i say?
 
